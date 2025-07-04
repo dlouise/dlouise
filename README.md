@@ -37,13 +37,14 @@ Other: Zustand, Zod, TanStack Query, GraphQL
 
 - 👩🏻‍💻 Engineering  
   - The Software Engineer's Guidebook by Gergely Orosz — solid career and team advice  
-  - The Effective Engineer by Edmond Lau — if you're trying to get actual stuff done  
-  - Refactoring UI by Tailwind Labs — not just about UI, it's mindset-shifting for frontend devs
+  - The Effective Engineer by Edmond Lau — if you're trying to get actual stuff done
+  - Clean Code by Robert C. Martin — old-school but useful for long-term sanity
 
 - 💅 UI & UX  
   - Practical UI by Adham Dannaway — short and straight to the point  
   - Don’t Make Me Think by Steve Krug — title says it all  
   - Laws of UX by Jon Yablonski — just good to skim through once in a while
+  - Refactoring UI by Tailwind Labs — not just about UI, it's mindset-shifting for frontend devs
 
 - 🏗️ Product & Systems  
   - Design That Scales by Dan Mall — actually gets into the reality of design systems  
