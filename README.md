@@ -8,7 +8,7 @@ Frontend: Next.js, React, TypeScript, JavaScript
 
 UI Libraries: Tailwind CSS  
 
-Backend: Supabase, PostgreSQL, Edge Functions  
+Backend: Supabase, PostgreSQL, Edge Functions, Python 
 
 Auth: Supabase Auth (magic links, RLS, JWTs)  
 
