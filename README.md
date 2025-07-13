@@ -16,7 +16,7 @@ Deploy: Railway, Vercel, GitHub Actions
 
 AI: OpenAI, Claude, Gemini  
 
-Other: Zustand, Zod, TanStack Query, GraphQL
+Other: MobX, Zustand, Zod, TanStack Query, GraphQL
 <br /><br />
 **OSS favorites:**  <br />
 - 🌐 [Next.js](https://nextjs.org) – full-stack React framework that just works  
