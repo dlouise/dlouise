@@ -28,7 +28,7 @@ Other: Zustand, Zod, TanStack Query, GraphQL
 - 🔍 [Zod](https://zod.dev) – runtime validation that catches issues early
 <br />
 
-🧪 Testing Remix for its loader-based fetch model and no-fuss routing. Might beat Next.js for the kind of micro-apps I'm building.
+🧪 Testing Remix for its loader-based fetch model and routing. Might beat Next.js for the kind of micro-apps I'm building.
 <br /><br />
 **📚 Recommended reading**
 
