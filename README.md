@@ -1,7 +1,7 @@
 ### Hey, I'm Dana
 
 **About me:**<br /><br />
-Full-stack developer who loves building web applications that actually work well. I get excited about clean interfaces and shipping products that solve real problems without unnecessary complexity. Currently working on AI-powered tools and web apps that help people get things done.
+Founder & full-stack developer building web applications that actually work well. I get excited about clean interfaces and shipping products that solve real problems without unnecessary complexity. Currently working on AI-powered tools and web apps that help people get things done.
 <br /><br />
 **Technical skills:**<br /><br />
 Frontend: Next.js, React, TypeScript, JavaScript 
