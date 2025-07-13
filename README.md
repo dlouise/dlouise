@@ -26,8 +26,10 @@ Other: Zustand, Zod, TanStack Query, GraphQL
 - 🎨 [Tailwind CSS](https://tailwindcss.com) – utility-first styling that makes sense  
 - 📦 [TanStack Query](https://tanstack.com/query) – data fetching that handles the messy bits  
 - 🔍 [Zod](https://zod.dev) – runtime validation that catches issues early
-<br /><br />
+<br />
 
+🧪 Testing Remix for its loader-based fetch model and no-fuss routing. Might beat Next.js for the kind of micro-apps I'm building.
+<br /><br />
 **📚 Recommended reading**
 
 - 🎨 Design  
