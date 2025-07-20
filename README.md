@@ -6,17 +6,26 @@ Founder & full-stack developer building web applications that actually work well
 **Technical skills:**<br /><br />
 Frontend: Next.js, React, TypeScript, JavaScript
 
-UI Libraries: Tailwind CSS  
+UI Libraries: Tailwind CSS
 
-Backend: Supabase, PostgreSQL, Edge Functions, Python 
+Backend: Supabase, PostgreSQL, Edge Functions, Python
 
-Auth: Supabase Auth (magic links, RLS, JWTs)  
+Auth: Supabase Auth (magic links, RLS, JWTs)
 
-Deploy: Railway, Vercel, GitHub Actions  
+AI: OpenAI API, Claude API, Gemini API, Vector Databases
 
-AI: OpenAI, Claude, Gemini  
+State Management: Zustand, TanStack Query
 
-Other: Zustand, Zod, TanStack Query, GraphQL
+Payments: Stripe
+
+Validation: Zod
+
+Deploy: Railway, Vercel, GitHub Actions
+
+Design: Figma
+
+Other: Git, GraphQL
+
 <br /><br />
 **OSS favorites:**  <br />
 - 🌐 [Next.js](https://nextjs.org) – full-stack React framework that just works  
