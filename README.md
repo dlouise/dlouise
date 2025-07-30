@@ -1,7 +1,7 @@
 ### Hey, I'm Dana
 
 **About me:**<br /><br />
-Founder & front-end focused full-stack developer building web applications that actually work well. I get excited about clean interfaces and shipping products that solve real problems without unnecessary complexity. Currently working on AI-powered tools and web apps that help people get things done.
+Front-end focused full-stack developer. I build web applications with React, Python backends, and AI integrations. Currently working on AI-powered tools using Anthropic/OpenAI APIs and Supabase.
 <br /><br />
 **Technical skills:**<br /><br />
 Frontend: Next.js, React, TypeScript, JavaScript
