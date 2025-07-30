@@ -12,7 +12,7 @@ Backend: Supabase, PostgreSQL, Edge Functions, Python
 
 Auth: Supabase Auth (magic links, RLS, JWTs)
 
-AI: OpenAI API, Claude API, Gemini, Vector Databases
+AI: OpenAI API, Anthropic API, Vector Databases
 
 State Management: Zustand, TanStack Query
 
