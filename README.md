@@ -6,15 +6,25 @@ Currently building AI-powered tools with OpenAI and Anthropic APIs, exploring ho
 
 **Technical skills:**<br /><br />
 **Frontend:** Next.js, React, TypeScript, JavaScript  
+
 **UI Libraries:** Tailwind CSS  
-**Backend:** Supabase, PostgreSQL, Edge Functions, Python  
+
+**Backend:** Node.js, Supabase, PostgreSQL, Edge Functions, Python  
+
 **Auth:** Supabase Auth (magic links, RLS, JWTs)  
+
 **AI:** OpenAI API, Anthropic API, Vector Databases, Agents  
+
 **State Management:** Zustand, TanStack Query  
+
 **Payments:** Stripe  
+
 **Validation:** Zod  
+
 **Deploy:** Railway, Vercel, GitHub Actions  
+
 **Design:** Figma  
+
 **Other:** Git, GraphQL
 
 
