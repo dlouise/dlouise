@@ -1,30 +1,36 @@
 ### Hey, I'm Dana
 
-**About me:**<br /><br />
-Front-end focused full-stack developer. I build web applications with React, Python backends, and AI integrations. Currently working on AI-powered tools using Anthropic/OpenAI APIs and Supabase.
-<br /><br />
-**Technical skills:**<br /><br />
-Frontend: Next.js, React, TypeScript, JavaScript
+## About Me
 
-UI Libraries: Tailwind CSS
+Front-end-focused developer with 12 years’ experience building fast, accessible and visually polished web applications.  
+I work across the stack — from React and Next.js on the front end to Python and Supabase on the backend — with a strong focus on user experience, maintainable systems and clean design.  
+Currently exploring AI-powered interfaces using OpenAI and Anthropic APIs, with a focus on practical, real-world product applications.
 
-Backend: Supabase, PostgreSQL, Edge Functions, Python
+---
 
-Auth: Supabase Auth (magic links, RLS, JWTs)
+## Technical Skills
 
-AI: OpenAI API, Anthropic API, Vector Databases
+### Frontend
+React · Next.js · TypeScript · JavaScript · Tailwind CSS  
 
-State Management: Zustand, TanStack Query
+### UX & Design Systems
+Accessibility · Design Systems · Interaction & Motion · Browser-based Prototyping  
 
-Payments: Stripe
+### Backend
+Supabase · PostgreSQL · Edge Functions · Python  
 
-Validation: Zod
+### AI & Automation
+OpenAI API · Anthropic API · Embeddings · Vector Databases · Agents  
 
-Deploy: Railway, Vercel, GitHub Actions
+### Auth & Data
+Supabase Auth (RLS · JWTs · Magic Links)  
 
-Design: Figma
+### Tooling & Deployment
+Vercel · Railway · GitHub Actions · Git  
 
-Other: Git, GraphQL
+### Other
+GraphQL · Zod · Stripe · Zustand · TanStack Query · Figma
+
 
 <br /><br />
 **OSS favorites:**  <br />
