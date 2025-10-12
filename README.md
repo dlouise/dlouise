@@ -1,35 +1,21 @@
-### Hey, I'm Dana
+**About me:**<br /><br />
+Hey, I'm Dana. I'm Front-end focused developer who builds accessible apps with React, Next.js and TypeScript.  
+I work across the stack when needed, mostly with Node.js and Supabase, and care about clean code, smooth UX and shipping things that work.  
+Currently building AI-powered tools with OpenAI and Anthropic APIs, exploring how agents and embeddings can make products more useful.
+<br /><br />
 
-## About Me
-
-Front-end-focused developer with 12 years’ experience building fast, accessible and visually polished web applications.  
-I work across the stack — from React and Next.js on the front end to Python and Supabase on the backend — with a strong focus on user experience, maintainable systems and clean design.  
-Currently exploring AI-powered interfaces using OpenAI and Anthropic APIs, with a focus on practical, real-world product applications.
-
----
-
-## Technical Skills
-
-### Frontend
-React · Next.js · TypeScript · JavaScript · Tailwind CSS  
-
-### UX & Design Systems
-Accessibility · Design Systems · Interaction & Motion · Browser-based Prototyping  
-
-### Backend
-Supabase · PostgreSQL · Edge Functions · Python  
-
-### AI & Automation
-OpenAI API · Anthropic API · Embeddings · Vector Databases · Agents  
-
-### Auth & Data
-Supabase Auth (RLS · JWTs · Magic Links)  
-
-### Tooling & Deployment
-Vercel · Railway · GitHub Actions · Git  
-
-### Other
-GraphQL · Zod · Stripe · Zustand · TanStack Query · Figma
+**Technical skills:**<br /><br />
+**Frontend:** Next.js, React, TypeScript, JavaScript  
+**UI Libraries:** Tailwind CSS  
+**Backend:** Supabase, PostgreSQL, Edge Functions, Python  
+**Auth:** Supabase Auth (magic links, RLS, JWTs)  
+**AI:** OpenAI API, Anthropic API, Vector Databases, Agents  
+**State Management:** Zustand, TanStack Query  
+**Payments:** Stripe  
+**Validation:** Zod  
+**Deploy:** Railway, Vercel, GitHub Actions  
+**Design:** Figma  
+**Other:** Git, GraphQL
 
 
 <br /><br />
