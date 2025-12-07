@@ -1,7 +1,5 @@
 **About me:**<br /><br />
-Hey, I'm Dana. I'm an Front-end UX focused engineer who builds accessible apps with React, Next.js and TypeScript.  
-I work across the stack when needed, mostly with Node.js and Supabase, and care about clean code, smooth UX and shipping things that work.  
-Currently building AI-powered tools with OpenAI and Anthropic APIs, exploring how agents and embeddings can make products more useful.
+Hey, I'm Dana. I'm Senior UX Engineer.
 <br /><br />
 
 **Technical skills:**<br /><br />
