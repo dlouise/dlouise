@@ -1,67 +1,91 @@
 **About me:**<br /><br />
-Hey, I'm Dana. I'm Senior UX Engineer.
+
+Hey, I'm Dana. I'm a Senior UX Engineer from New Zealand.
+
+I work across UX, frontend engineering, and product. I like taking messy ideas and turning them into real products, simplifying complicated problems, and figuring out why people do the things they do.
+
+Most days I'm building web apps, designing interfaces, improving developer experience, and helping teams make better product decisions. I enjoy working across the whole process, from understanding the problem through to shipping the solution.
+
+Lately I've been spending a lot of time with AI-assisted development, product discovery, accessibility, design systems, and finding ways to move faster without creating a pile of technical debt six months later.
+
+I'm a big believer that good products come from understanding people, not just writing code.
+
+Outside of work you'll usually find me lifting weights, writing songs, playing guitar or piano, tinkering with electronics, building side projects, learning something new, or disappearing into a book I probably bought because someone on the internet recommended it.
+
 <br /><br />
 
 **Technical skills:**<br /><br />
-**Frontend:** Next.js, React, TypeScript, JavaScript  
 
-**UI Libraries:** Tailwind CSS  
+**Frontend:** Next.js, React, TypeScript, JavaScript, HTML, CSS
 
-**Backend:** Node.js, Supabase, PostgreSQL, Edge Functions, Python  
+**UI Libraries:** Tailwind CSS
 
-**Auth:** Supabase Auth (magic links, RLS, JWTs)  
+**Backend:** Node.js, Supabase, PostgreSQL, Edge Functions, Python
 
-**AI:** OpenAI API, Anthropic API, Vector Databases, Agents  
+**Auth:** Supabase Auth (magic links, RLS, JWTs)
 
-**State Management:** Zustand, TanStack Query  
+**AI:** OpenAI API, Anthropic API, Vector Databases, RAG
 
-**Payments:** Stripe  
+**State Management:** Zustand, TanStack Query
 
-**Validation:** Zod  
+**Payments:** Stripe
 
-**Deploy:** Railway, Vercel, GitHub Actions  
+**Validation:** Zod
 
-**Design:** Figma  
+**Deploy:** Railway, Vercel, GitHub Actions
+
+**Design:** Figma
 
 **Other:** Git, GraphQL
 
-
 <br /><br />
-**OSS favorites:**  <br />
-- 🌐 [Next.js](https://nextjs.org) – full-stack React framework that just works  
-- 🧙‍♂️ [Supabase](https://supabase.com) – open-source backend with excellent developer experience  
-- 🚂 [Railway](https://railway.app) – quick deploys without the DevOps headaches  
-- ▲ [Vercel](https://vercel.com) – seamless Next.js deployments and edge functions  
-- 🎨 [Tailwind CSS](https://tailwindcss.com) – utility-first styling that makes sense  
-- 📦 [TanStack Query](https://tanstack.com/query) – data fetching that handles the messy bits  
-- 🔍 [Zod](https://zod.dev) – runtime validation that catches issues early
+
+**OSS favorites:**<br />
+
+- 🌐 Next.js – full-stack React framework that just works
+- 🧙‍♂️ Supabase – open-source backend with excellent developer experience
+- 🚂 Railway – quick deploys without the DevOps headaches
+- ▲ Vercel – seamless deployments and edge functions
+- 🎨 Tailwind CSS – utility-first styling that makes sense
+- 📦 TanStack Query – data fetching that handles the messy bits
+- 🔍 Zod – runtime validation that catches issues early
+
 <br />
 
-🧪 Testing Remix for its loader-based fetch model and routing. Might beat Next.js for the kind of micro-apps I'm building.
+🧪 Currently exploring AI-assisted development, product discovery, local-first software, SwiftUI, design systems, accessibility, electronics, and IoT.
+
 <br /><br />
+
 **📚 Recommended reading**
 
-- 🎨 Design  
-  - Build Better Products by Laura Klein — clear, blunt, and useful  
-  - The Design of Everyday Things by Don Norman — old but still makes you think  
-  - Articulating Design Decisions by Tom Greever — for when you're explaining ideas that feel obvious to you
+- 🚀 Product
+  - Escaping the Build Trap by Melissa Perri (actively reading)
+  - Continuous Discovery Habits by Teresa Torres (actively reading)
+  - Build Better Products by Laura Klein
+  - The Mom Test by Rob Fitzpatrick
 
-- 👩🏻‍💻 Engineering  
-  - The Software Engineer's Guidebook by Gergely Orosz — solid career and team advice  
-  - The Effective Engineer by Edmond Lau — if you're trying to get actual stuff done
-  - Clean Code by Robert C. Martin — old-school but useful for long-term sanity
+- 🧠 Thinking
+  - The Scout Mindset by Julia Galef (actively reading)
+  - Design for How People Think by John Whalen
 
-- 💅 UI & UX  
-  - Practical UI by Adham Dannaway — short and straight to the point  
-  - Don’t Make Me Think by Steve Krug — title says it all  
-  - Laws of UX by Jon Yablonski — just good to skim through once in a while
-  - Refactoring UI by Tailwind Labs — not just about UI, it's mindset-shifting for frontend devs
+- 🎨 Design
+  - The Design of Everyday Things by Don Norman
+  - Articulating Design Decisions by Tom Greever
+  - Laws of UX by Jon Yablonski
 
-- 🏗️ Product & Systems  
-  - Design That Scales by Dan Mall — actually gets into the reality of design systems  
-  - Frontend Architecture for Design Systems by Micah Godbolt — especially if you like planning  
-  - Design for How People Think by John Whalen — useful if you're building tools people rely on
+- 👩🏻‍💻 Engineering
+  - The Software Engineer's Guidebook by Gergely Orosz
+  - The Effective Engineer by Edmond Lau
+  - Clean Code by Robert C. Martin
+  - Refactoring UI by Tailwind Labs
 
-- 👩‍🚀 Other  
-  - Severance (TV series) — strange, stylish, really sticks with you  
-  - From (TV series) — weird, stressful, addictive
+- 🏗️ Systems & Architecture
+  - Design That Scales by Dan Mall
+  - Frontend Architecture for Design Systems by Micah Godbolt
+
+<br /><br />
+
+**📺 Worth watching**
+
+- Severance
+- From (could proabably skip season 4 though ha).
